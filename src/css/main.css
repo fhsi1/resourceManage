@@ -1,0 +1,96 @@
+@media (min-width: 500px) {
+  .project-boxes * {
+    flex-grow: 1;
+  }
+}
+
+main {
+  background-color: #ffffff;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 20px;
+  flex-grow: 1;
+}
+
+.main-title {
+  padding: 10px;
+}
+
+.project-summary {
+  display: flex;
+}
+
+.progress,
+.upcomming,
+.total {
+  margin: 10px;
+}
+
+.list-view-btn,
+.block-view-btn {
+  margin: 5px;
+  border: none;
+  padding: 10px;
+  border-radius: 50px;
+}
+
+.project-boxes {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 35px;
+  margin: auto;
+}
+
+.project-square1 {
+  background-color: #fee4cb;
+  border-radius: 20px;
+  height: 200px;
+  width: 200px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.project-square2 {
+  background-color: #e9e7fd;
+  border-radius: 20px;
+  height: 200px;
+  width: 200px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.project-square3 {
+  background-color: #dbf6fd;
+  border-radius: 20px;
+  height: 200px;
+  width: 200px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.project-square4 {
+  background-color: #ffd3e2;
+  border-radius: 20px;
+  height: 200px;
+  width: 200px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.project-square5 {
+  background-color: #c8f7dc;
+  border-radius: 20px;
+  height: 200px;
+  width: 200px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.project-square6 {
+  background-color: #d5deff;
+  border-radius: 20px;
+  height: 200px;
+  width: 200px;
+  padding: 20px;
+  margin: 20px;
+}

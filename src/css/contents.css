@@ -1,0 +1,14 @@
+@import "nav.css";
+@import "main.css";
+@import "aside.css";
+
+@media (max-width: 520px) {
+  .contents nav,
+  .contents aside {
+    display: none;
+  }
+}
+
+.contents {
+  display: flex;
+}

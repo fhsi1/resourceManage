@@ -1,0 +1,10 @@
+@import "header.css";
+@import "contents.css";
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background-color: #f3f6fd;
+}

@@ -1,0 +1,18 @@
+aside {
+  flex-basis: 250px;
+  padding: 10px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  margin: 10px;
+}
+
+.aside-title {
+  padding: 10px;
+}
+
+.aside-box {
+  border-bottom: 1px solid rgb(151, 148, 148);
+  display: flex;
+  flex-wrap: wrap;
+  padding: 35px;
+}

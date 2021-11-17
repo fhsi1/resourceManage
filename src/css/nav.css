@@ -1,0 +1,17 @@
+nav {
+  width: 70px;
+  margin-top: -1px;
+}
+
+.nav-btns {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.nav-btn {
+  margin: 5px;
+  border: none;
+  padding: 10px;
+  border-radius: 50px;
+}

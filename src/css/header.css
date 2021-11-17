@@ -1,0 +1,63 @@
+header {
+  height: 70px;
+  padding: 10px;
+  display: flex;
+}
+
+@media (max-width: 899px) {
+  .header-btns {
+    display: none;
+  }
+}
+
+.menu-btn {
+  border: none;
+  padding: 15px;
+}
+
+.page-title {
+  padding: 10px;
+}
+
+.search-box {
+  display: flex;
+  padding: 5px;
+}
+
+input {
+  width: 360px;
+  height: 40px;
+  padding: 10px;
+  border-radius: 50px;
+  border-width: 1px;
+  border: none;
+}
+
+input:focus {
+  outline: none;
+}
+
+.search-btn {
+  border: none;
+  background-color: inherit;
+  padding: 10px;
+  margin-left: -40px;
+}
+
+.profile {
+  margin-left: 30px;
+}
+
+.header-btns {
+  margin-left: 30px;
+}
+
+.dark-btn,
+.plus-btn,
+.alert-btn,
+.profile-btn {
+  border: none;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 50%;
+}
