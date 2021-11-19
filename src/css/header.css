@@ -17,6 +17,7 @@ header {
 
 .page-title {
   padding: 10px;
+  font-weight: bold;
 }
 
 .search-box {
@@ -46,6 +47,7 @@ input:focus {
 
 .profile {
   margin-left: 30px;
+  font-weight: bold;
 }
 
 .header-btns {
